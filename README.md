@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayramuysalbey&show_icons=true&locale=en" alt="bayramuysalbey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayramuysalbey&" alt="bayramuysalbey" /></p>
+- uses: BayramUysalBey/action-camo-purge@v1

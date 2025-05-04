@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bayram</h1>
-<h3 align="center">A passionate python backend developer from Turkey</h3>
+<h3 align="center">A passionate python backend developer from Türkiye (for now). I studied MBA to align codes with corporate goals.y</h3>
 
 - 🌱 I’m currently learning **python, django, mongodb, rest api**
 

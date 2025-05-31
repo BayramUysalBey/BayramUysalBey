@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bayram</h1>
 <h3 align="center">A passionate python backend developer from Türkiye (for now). I studied MBA to align codes with corporate goals.</h3>
 
-- 🌱 I’m currently learning **python, django, mongodb, rest api**
+- 🌱 I’m currently learning **python, flask, mongodb, rest api**
 
 - 📫 How to reach me **bayramuysal@windowslive.com**
 

@@ -16,7 +16,5 @@ I'm currently studying; Python (Backend Development)<br>Flask & FastAPI<br>REST 
 ![](https://github-contributor-stats.vercel.app/api?username=BayramUysalBey&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BayramUysalBey&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![Deployed with Render](https://render.com/deploy/button)](https://render.com/deploy)   
+[![](https://visitcount.itsvg.in/api?id=BayramUysalBey&icon=0&color=0)](https://visitcount.itsvg.in) 
     

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying; Python (Backend Development)<br>Flask & FastAPI<br>REST API Design & Implementation<br>Docker & Containerization<br>SQL Databases<br>Software Architecture<br>Business-Driven Development (MBA)
+I'm Python backend developer<br>Flask & FastAPI<br>REST API Design & Implementation<br>Docker & Containerization<br>SQL Databases<br>Software Architecture<br>Business-Driven Development (MBA)
 
 
 ## 🌐 Socials:
